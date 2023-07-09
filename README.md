@@ -20,3 +20,10 @@ Usando os padrões encontrados nos dados train.csv, preveja se os outros 418 pas
 O conjunto de treino(train) foi usado para criar seus modelos de aprendizado de máquina. Nesse conjunto treinamento, o resultado é fornecido (também conhecido como “verdade básica”) para cada passageiro. O modelo é baseado em “características” como sexo e classe dos passageiros. 
 
 O conjunto de teste(test) foi usado para ver o desempenho do modelo em dados não vistos. Não é fornecida a verdade básica para cada passageiro. O trabalho do projeto é prever esses resultados. Para cada passageiro no conjunto de teste, foi usado o modelo que treinado para prever se eles sobreviveram ou não ao naufrágio do Titanic.
+
+O resultado é avaliado através da acurácia:
+"Sua pontuação é a porcentagem de passageiros que você prevê corretamente. Isso é conhecido como acurácia."
+
+
+Foi utilizado o ydata-profiling (antigo Pandas Profiling) para começar a entender essa base. Link do código:
+https://github.com/ydataai/ydata-profiling
