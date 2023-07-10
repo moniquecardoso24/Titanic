@@ -27,3 +27,21 @@ O resultado é avaliado através da acurácia:
 
 Foi utilizado o ydata-profiling (antigo Pandas Profiling) para começar a entender essa base. Link do código:
 https://github.com/ydataai/ydata-profiling
+
+## Pandas Profiling 
+
+### Código
+![image](https://github.com/moniquecardoso24/Titanic/assets/118371689/92275c35-c154-48ff-8619-9a14a91901cb)
+
+### Visão geral do Relatório gerado
+![image](https://github.com/moniquecardoso24/Titanic/assets/118371689/9ac01385-8888-4aad-baae-5ac6a53fce58)
+
+### Coluna
+![image](https://github.com/moniquecardoso24/Titanic/assets/118371689/fc384907-6033-41c5-b620-783d2a2b0128)
+
+### Correlações
+![image](https://github.com/moniquecardoso24/Titanic/assets/118371689/4b5508e6-e6ed-4fb0-86d6-752369e78717)
+### Total de valores faltantes de cada coluna
+![image](https://github.com/moniquecardoso24/Titanic/assets/118371689/cac0d2e1-263d-426e-83b6-2e9b06911844)
+
+
