@@ -44,4 +44,13 @@ https://github.com/ydataai/ydata-profiling
 ### Total de valores faltantes de cada coluna
 ![image](https://github.com/moniquecardoso24/Titanic/assets/118371689/cac0d2e1-263d-426e-83b6-2e9b06911844)
 
+## Passo 1 - Entendendo os dados
+
+- Os valores nulos da base de treino não são os mesmos que as bases de teste.
+### 5 primeiros valores nulos da base de treino(train)
+- ![image](https://github.com/moniquecardoso24/Titanic/assets/118371689/5249d9dc-44bd-4601-8058-acaa5200d8c0)
+
+### 5 primeiros valores nulos da base de teste(test)
+![image](https://github.com/moniquecardoso24/Titanic/assets/118371689/a2e49fe4-3fd0-41fb-aef4-4904d91ddb52)
+
 
