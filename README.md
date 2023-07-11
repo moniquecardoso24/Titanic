@@ -52,4 +52,4 @@ https://github.com/ydataai/ydata-profiling
 - Regressão Logística
 
 O modelo que teve maior acurácia foi o da Regressão Logística com 72.54%
-
+![image](https://github.com/moniquecardoso24/Titanic/assets/118371689/6f727b4e-389c-4cbb-a315-b0ec4ead3a6e)
